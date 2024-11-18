@@ -17,20 +17,20 @@ A web-based application that suggests travel destinations based on user preferen
 
 **Setup and Installation**
 
-    Clone the Repository:
+Clone the Repository:
 
-git clone `https://github.com/yourusername/travel-recommendation.git`
-      `cd travel-recommendation`
+        git clone `https://github.com/srilalita-05/Travel-recommendation-.git
+        cd travel-recommendation`
 
 *Install Dependencies*: Ensure Python 3 is installed, then install required packages:
 
-      `pip install flask pandas scikit-learn`
+      pip install flask pandas scikit-learn
 
 *Add Dataset*: Place your dataset file (Expanded_Destinations.csv) in the project root directory.
 
 *Run the Application:*
 
-    `python app.py`
+    python app.py
 
     Access the app in your browser at http://127.0.0.1:5000.
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 
 **Author**
 
-    Your Name
+    D Sri Lalita Bhuvaneswari 
